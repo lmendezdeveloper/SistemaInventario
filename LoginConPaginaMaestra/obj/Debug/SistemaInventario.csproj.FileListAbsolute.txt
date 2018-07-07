@@ -1,0 +1,14 @@
+C:\Users\lmendez\Proyectos\SistemaInventario\LoginConPaginaMaestra\obj\Debug\SistemaInventario.csprojAssemblyReference.cache
+C:\Users\lmendez\Proyectos\SistemaInventario\LoginConPaginaMaestra\obj\Debug\SistemaInventario.csproj.CoreCompileInputs.cache
+C:\Users\lmendez\Proyectos\SistemaInventario\LoginConPaginaMaestra\bin\SistemaInventario.dll.config
+C:\Users\lmendez\Proyectos\SistemaInventario\LoginConPaginaMaestra\bin\SistemaInventario.dll
+C:\Users\lmendez\Proyectos\SistemaInventario\LoginConPaginaMaestra\bin\SistemaInventario.pdb
+C:\Users\lmendez\Proyectos\SistemaInventario\LoginConPaginaMaestra\bin\Biblioteca.dll
+C:\Users\lmendez\Proyectos\SistemaInventario\LoginConPaginaMaestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lmendez\Proyectos\SistemaInventario\LoginConPaginaMaestra\bin\Biblioteca.pdb
+C:\Users\lmendez\Proyectos\SistemaInventario\LoginConPaginaMaestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lmendez\Proyectos\SistemaInventario\LoginConPaginaMaestra\obj\Debug\SistemaInventario.csproj.CopyComplete
+C:\Users\lmendez\Proyectos\SistemaInventario\LoginConPaginaMaestra\obj\Debug\SistemaInventario.dll
+C:\Users\lmendez\Proyectos\SistemaInventario\LoginConPaginaMaestra\obj\Debug\SistemaInventario.pdb
+C:\Users\lmendez\Proyectos\SistemaInventario\LoginConPaginaMaestra\bin\itextsharp.dll
+C:\Users\lmendez\Proyectos\SistemaInventario\LoginConPaginaMaestra\bin\itextsharp.xml

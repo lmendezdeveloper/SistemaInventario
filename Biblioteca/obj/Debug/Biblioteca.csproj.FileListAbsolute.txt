@@ -1,0 +1,17 @@
+c:\users\nicolas\source\repos\LoginConPaginaMaestra\Biblioteca\bin\Debug\Biblioteca.dll
+c:\users\nicolas\source\repos\LoginConPaginaMaestra\Biblioteca\bin\Debug\Biblioteca.pdb
+c:\users\nicolas\source\repos\LoginConPaginaMaestra\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+c:\users\nicolas\source\repos\LoginConPaginaMaestra\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+c:\users\nicolas\source\repos\LoginConPaginaMaestra\Biblioteca\obj\Debug\Biblioteca.dll
+c:\users\nicolas\source\repos\LoginConPaginaMaestra\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\lmendez\Downloads\LoginConPaginaMaestra\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\lmendez\Downloads\LoginConPaginaMaestra\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\lmendez\Downloads\LoginConPaginaMaestra\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\lmendez\Downloads\LoginConPaginaMaestra\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\lmendez\Downloads\LoginConPaginaMaestra\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\lmendez\Proyectos\SistemaInventario\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\lmendez\Proyectos\SistemaInventario\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\lmendez\Proyectos\SistemaInventario\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\lmendez\Proyectos\SistemaInventario\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\lmendez\Proyectos\SistemaInventario\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\lmendez\Proyectos\SistemaInventario\Biblioteca\obj\Debug\Biblioteca.pdb
